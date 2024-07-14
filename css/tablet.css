@@ -1,0 +1,211 @@
+@media (max-width: 568px) {
+    .but3 {
+        display: none;
+    }
+
+    .artwork_section1_title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .artwork_section1_sort_p {
+        display: none;
+    }
+
+    .artwork_section1_sort {
+        width: 61px;
+        height: 40px;
+    }
+
+
+    /* contact */
+    form {
+
+        width: 432px;
+        height: 391px;
+
+
+    }
+
+    input {
+
+        width: 180px;
+        height: 40px;
+
+
+
+
+    }
+
+    h5 {
+        font-size: 32px;
+
+        line-height: 39px;
+    }
+
+    .contact_section1 {
+        height: 560px;
+
+
+        padding-top: 85px;
+
+
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 481px) {
+    header {
+        padding-inline: 20px;
+    }
+
+
+    .home_section1 {
+        height: 270px;
+        row-gap: 32px;
+    }
+
+    .home_section1_title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+
+    /* homesection2 */
+
+    /* footer */
+    footer {
+        padding: 30px 123px;
+        height: 330px;
+
+    }
+
+
+    /* artwork */
+
+    .boxnone2 {
+        display: none;
+    }
+
+    .but3 {
+        display: none;
+    }
+
+    .artwork_section1_title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .artwork_section1_sort_p {
+        display: none;
+    }
+
+    .artwork_section1_sort {
+        width: 61px;
+        height: 40px;
+    }
+
+    .artwork_section1_lastbox_button {
+
+        width: 40px;
+        height: 40px;
+    }
+
+    .artwork_section1_titlebutton {
+        padding-block: 64px 48px;
+    }
+
+
+
+    /* contact */
+    .contact_section1 {
+        height: 560px;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        row-gap: 24px;
+        width: 432px;
+        height: 391px;
+        width: 100%;
+
+
+    }
+
+    input {
+
+
+
+        width: 264px;
+        height: 40px;
+
+
+    }
+
+    h5 {
+        font-size: 24px;
+
+        line-height: 32px;
+    }
+
+    .contact_section1 {
+        height: 496px;
+
+
+        padding: 48px 8px;
+
+
+    }
+
+    .contact_section1_form_nameEmail {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 24px;
+
+    }
+
+    textarea {
+        width: 264px;
+        height: 96px;
+
+    }
+
+    .contact_section2 {
+        height: 616px;
+
+
+    }
+
+    h6 {
+        font-size: 32px;
+
+        line-height: 40px;
+    }
+
+    .contact_section2_leftside {
+
+        column-gap: 42px;
+
+
+
+    }
+
+}
